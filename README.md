@@ -16,9 +16,11 @@ A Java-based Travel Management System designed to streamline travel bookings, it
 
 **🛠️ Technologies Used**
 
-Java (Core + renderScript ) – GUI and backend logic
+Java (Android SDK)
 
-JDBC – Database connectivity
+RenderScript – for high-performance parallel computing
+
+XML – for UI layouts
 
 **📌 Purpose**
 
