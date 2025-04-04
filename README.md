@@ -16,7 +16,7 @@ A Java-based Travel Management System designed to streamline travel bookings, it
 
 **🛠️ Technologies Used**
 
-Java (Android SDK)
+Java (Core)
 
 RenderScript – for high-performance parallel computing
 
